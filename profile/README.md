@@ -11,6 +11,9 @@
 ### Discord link:
 * https://discord.gg/8yGyt2pv (expires in 7 days, join before it expires)
 
+### Miro Board:
+* https://miro.com/app/board/uXjVN-hGDGQ=/
+
 ### Lecturers:
 * *Interaction Design Methods* —— **Mustafa Can Özdemir** / `Rajaztlu`
 * *Fundamentals of Web Programming* —— **Raimo Pregel** / `raimopew`
