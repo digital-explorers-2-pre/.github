@@ -17,3 +17,7 @@
 ### Lecturers:
 * *Interaction Design Methods* —— **Mustafa Can Özdemir** / `Rajaztlu`
 * *Fundamentals of Web Programming* —— **Raimo Pregel** / `raimopew`
+
+* ### Recording:
+*  15th of January: https://zoom.us/rec/share/hM9YLrNQfORtxuKmBBQUEeTT-iTKg2pt1j0LDS5h41urt9V0Czv8XXVVMb8ilo-y.gpVT1MillHT2iKOP?startTime=1705305207000
+Passcode: 4^^AoWJ?
