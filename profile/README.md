@@ -21,3 +21,5 @@
 ### Recordings:
 *  15th of January: https://zoom.us/rec/share/hM9YLrNQfORtxuKmBBQUEeTT-iTKg2pt1j0LDS5h41urt9V0Czv8XXVVMb8ilo-y.gpVT1MillHT2iKOP?startTime=1705305207000
 Passcode: 4^^AoWJ?
+* 17th of January: https://zoom.us/rec/share/_IkeIys11Zr-b1O5jGUuiLOjb1dZKBxkEIDmkpL1ZyfQyQoggrV9tONF0cx6Ihwj.D9T94UbmDS3YMGb8?startTime=1705476389000
+Passcode: 5YZ%HrH^
