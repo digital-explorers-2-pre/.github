@@ -25,3 +25,5 @@ Passcode: 4^^AoWJ?
 Passcode: 5YZ%HrH^
 * 22nd of January: https://zoom.us/rec/share/XJqjbl2R4ZHH7lYyJKtZIDI_zBhnYcYAocEM5zx3aY2_6oV34JSEFOeGEP-Yl5o.FM_A_Ri10enKFMAl 
 Passcode: #h6v@CKK
+* 24th of January: https://zoom.us/rec/share/zqVShrw6SeOiUnth2knoU-9li_ZSrjjFpfA2rRUR8_t4rlJF3W9t6XT2fhT5HDGn.T4I-PI30ul4CWL-4?startTime=1706082640000
+Passcode: Li4%xCT7
